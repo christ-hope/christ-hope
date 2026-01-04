@@ -92,10 +92,13 @@ Application de communication instantanée scalable.
 
 ## 📂 Organisation des projets
 
-- Les projets publics sont disponibles via les **repositories GitHub**
-- Les ressources complémentaires (documents, maquettes, concepts, versions étendues) sont organisées dans un **Drive privé**
+- Les projets publics sont accessibles via les **repositories GitHub**
+- Les ressources complémentaires (documents techniques, maquettes, concepts, notes de recherche et versions étendues) sont centralisées dans un **Drive de projets**
 
-🔒 *Certains travaux sont volontairement non publics (R&D, concepts, phases de test ou d’expérimentation).*
+📁 Accès au Drive projets :  
+🔗 https://drive.google.com/file/d/1oG6LlExmha9Nbj9MbBEtyjRdqgsjRW40/view?usp=sharing
+
+🔒 *Certains travaux sont volontairement non publics (R&D, concepts sensibles, phases de test ou d’expérimentation).*
 
 ---
 
