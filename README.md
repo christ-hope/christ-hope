@@ -1,3 +1,6 @@
+
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c30e0c4d-cac9-4f84-b092-ae8795ef7401" />
+
 # 👋 Bonjour, je suis Bill Hope (christ-hope)
 
 💻 Développeur Full-Stack  
